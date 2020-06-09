@@ -1,2 +1,2 @@
-# nurminski.github.org
+# Keril`s site
 my first nurminski site
